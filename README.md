@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gustavo Lazzari
-- 👀 I’m interested in C, Python, HTML, CSS, JavaScript, NodeJS
+- 👀 I’m interested in C, Python, HTML, CSS, JavaScript, NodeJS, PHP
 - 🇧🇷  I’m Brazilian    
 - 🌱 I’m currently studying computer engineering @ PUC-PR
 - 📫 You can reach me via email @ gustavotlazzari@gmail.com 
