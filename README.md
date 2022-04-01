@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A computer engineering student from Brazil</h3>
 
-- 🔭 I’m currently working on [Full Home Automation](project.link)
+- 🔭 I’m currently working on [Full Home Automation](https://github.com/GLazzari1428/Home_Automation)
 
 - 🌱 I’m currently learning **javascript, frameworks, php, mysql**
 
