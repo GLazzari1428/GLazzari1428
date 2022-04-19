@@ -28,4 +28,4 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glazzari1428&show_icons=true&locale=en" alt="glazzari1428" /></p>
  -->
 <!-- <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=glazzari1428&show_icons=true alt=rahuldkjain /> </p> -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=glazzari1428&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=glazzari1428&show_icons=true&theme=dracula)
