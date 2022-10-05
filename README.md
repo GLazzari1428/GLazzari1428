@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **gustavotlazzari@gmail.com**
 
+- 🔗 Checkout my website **https://gustavolazzari.tech**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gustavo-lazzari-b3a253206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-lazzari" height="30" width="40" /></a>
