@@ -10,10 +10,9 @@
 
 ```bash
 $ whoami
-A networks-leaning engineer-in-training. I find peace in VLANs,
+A networks-leaning engineer-in-training. I find peace in Linux,
 packet captures, and well-segmented homelabs. Working toward
-CCNA 200-301 and a Master's in Cybersecurity or Network
-Engineering.
+CCNA 200-301.
 ```
 
 ### The Lab
