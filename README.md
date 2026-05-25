@@ -1,41 +1,77 @@
-<h1 align="center">Hi, I'm Gustavo Lazzari</h1>
-<h3 align="center">A computer science student from Brazil</h3>
+<div align="center">
 
-<!--- 🔭 I’m currently working on [Full Home Automation](https://github.com/GLazzari1428/Home_Automation) and [SIGA for EJUD]()
+# Gustavo Lazzari
 
-- 🌱 I’m currently learning **javascript, frameworks, php, mysql**
+`Computer Science @ PUC-PR  ·  Curitiba, Brazil`
 
-- 💬 Ask me about **python, homeassistant, linux**
+</div>
 
-- 📫 How to reach me **gustavotlazzari@gmail.com**
+---
 
-- 🔗 Checkout my website **https://gustavolazzari.tech**
+```bash
+$ whoami
+A networks-leaning engineer-in-training. I find peace in VLANs,
+packet captures, and well-segmented homelabs. Working toward
+CCNA 200-301 and a Master's in Cybersecurity or Network
+Engineering.
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gustavo-lazzari-b3a253206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-lazzari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/glazzari1428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="glazzari1428" height="30" width="40" /></a>
-</p>
+### The Lab
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
--->
+A two-node **Proxmox VE** cluster running 20+ services behind
+**OPNsense** and **Cloudflare Zero Trust**. WireGuard meshes,
+VLAN segmentation, ZFS pools, GPU passthrough. On the IoT side,
+a fleet of ESP32s reporting to **Home Assistant** over MQTT,
+with Frigate NVR handling vision and Prometheus and Grafana
+watching the rest.
 
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/GLazzari1428"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="GLazzari1428" /></a></p><br><br>
+### Stack
 
-<p></p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=home-assistant&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=glazzari1428&show_icons=true&locale=en&layout=compact" alt="glazzari1428" /></p>
- -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glazzari1428&show_icons=true&locale=en" alt="glazzari1428" /></p>
- -->
-<!-- <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=glazzari1428&show_icons=true alt=rahuldkjain /> </p> -->
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=glazzari1428&show_icons=true&theme=dracula) -->
+### Experience
 
-<div align=center>
-  <a href="https://github.com/glazzari1428">
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=glazzari1428&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glazzari1428&layout=compact&langs_count=7&theme=dracula"/> -->
- </a>
-<div>
+```
+2021 - 2022    Software Engineering Intern  ·  Tribunal de Justiça do Paraná
+               Built a School Management System  ·  18 months
+```
+
+### Certifications
+
+```
+Cisco CCNA 200-301                in progress
+Cambridge C1 Advanced (CAE)
+Deutsches Sprachdiplom (DSD II)
+```
+
+### Languages
+
+```
+Portuguese    ████████████    native
+English       ███████████░    fluent
+German        ████████░░░░    conversational
+Italian       ███░░░░░░░░░    learning
+```
+
+### Currently
+
+Studying CCNA 200-301  ·  Refining the homelab  ·  Reading on routing protocols
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glazzari/)
+
+`open to internships and network engineering roles  ·  CCNA-track`
+
+</div>
